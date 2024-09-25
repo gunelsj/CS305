@@ -30,7 +30,7 @@ console.log(city);
 
 
 var country1 = "Italia"
- country1 = "Azerbaijan" 
+var country1 = "Azerbaijan" 
 console.log(country1)
 
 
