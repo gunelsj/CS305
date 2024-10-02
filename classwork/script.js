@@ -56,5 +56,20 @@ switch(num) {
         
         
 
+{
+  let a = 5
+console.log(a);
+}
 
 
+
+{
+    var b = 8
+console.log(b);
+}
+
+
+{
+    const c = 12
+console.log(c);
+}

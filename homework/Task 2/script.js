@@ -388,7 +388,7 @@ console.log(" ");
 i=0
 for (key in mixedObject) {
     type = typeof mixedObject[key];
-    if ((type === '')) {
+    if (type === '') {
       console.log(key + ":" + mixedObject[key]);
       i=i+1
     }else if(i=0){
