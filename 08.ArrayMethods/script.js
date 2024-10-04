@@ -40,3 +40,41 @@ const numbers = [9, 5, 3, 11, 12, 33, 22, 9, 11, 10, 0, 8]
 // 10.add 0,1,2 to 'numbers' (front)
 //users.splice(0, 0, 0, 1, 2)
 //console.log("users", users)
+
+
+//const numbers = [9, 5, 3, 11, 12, 33, 22, 9, 11, 10, 0, 8]
+//const list = ['6', '3', true, 'a', undefined, false, 10, 11, 5]
+//const list2 = ['a', ['f'], 7, ['d', [false]]]
+
+//1 
+//const result1 = nums.every((num) => num > 5)
+
+//2
+//const result2 = nums.some((num) => num > 2)
+
+//3
+//console.log(list2.flat(2))
+
+//4
+//console.log(users.flat(Infinity))
+
+//5
+//const numbers = numbers.reduce((a, b) => a + b, 0)
+
+//6 
+//const numbers = list.reduce((acc, items) => typeof items === 'number' ? acc + items : acc, 0)
+
+//7
+//const list = list.every(item => item)
+
+//8
+
+//const numbers = list.filter(item => typeof item === 'number')
+
+//numbers.sort((a, b) => a - b) 
+
+
+
+
+
+
